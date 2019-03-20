@@ -1,0 +1,29 @@
+body {
+	background-color: #FFFFFF;
+	background-image: url("Images/proc.jpg");
+	background-repeat: no-repeat;
+	background-position: 60% 35%;
+	background-attachment: scroll;
+}
+
+.intro{
+	color:#6E6E6E;
+	position: relative;
+	left: 20%;
+}
+h1 {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	color:#6E6E6E;
+	border-bottom: 1px solid #6E6E6E;
+	}
+
+table {
+  border: 2px solid #6E6E6E;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-spacing:0;
+}
+#blank{
+	height:25em;
+}

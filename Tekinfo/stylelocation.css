@@ -1,0 +1,32 @@
+h1{
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	text-decoration:underline;
+	color:#6E6E6E;
+}
+
+#local{
+	position:absolute;
+	top: 16%;
+	left:28%;	
+}
+#column1 { 	
+		float:left;
+		width: 60%;
+}
+
+#column2 {
+		float:right;
+		width: 28%;
+}
+
+#blank{
+	height:25em;
+}
+
+#blank1{
+	height:2em;
+}
+
+#blank2{
+	height:15em;
+}

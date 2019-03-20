@@ -1,0 +1,35 @@
+h1 { border-top-width: medium;
+border-top-style:groove;
+border-top-color: grey;
+font-size:120%;
+text-indent:2%;
+color: white;
+background-color:#BDBDBD;
+}
+
+.parc{
+float:right;
+width:28%;
+}
+.web{
+	float:left;
+    width:30%;
+}
+.matos{
+	float:left;
+	width:30%;
+}
+.backup{
+	float:right;
+	padding-top:2%;
+	width:30%;
+}
+span.strong {
+	font-weight:bold;
+	text-decoration:underline;
+}
+.rond{
+	border-radius:9px;
+	-moz-border-radius:9px;
+    -webkit-border-radius:9px;
+}

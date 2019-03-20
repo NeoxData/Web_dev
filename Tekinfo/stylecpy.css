@@ -1,0 +1,20 @@
+body {
+text-align:justify;
+}
+.zoom {
+	float:left;
+	width:50%;
+}
+.zoom img:hover{
+width: 80%;
+height:40%;
+}
+h1{
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	color:#6E6E6E;
+	border-bottom: 1px solid #6E6E6E;
+}
+.ref{
+	position:relative;
+	width:90%;
+}

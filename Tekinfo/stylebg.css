@@ -1,0 +1,94 @@
+html, body {
+    height: 100%
+}
+body {
+	background-color: #FFFFFF;
+	margin-top:1%;
+	margin-bottom:1%;
+	margin-right:15%;
+	margin-left:23%;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:link{color:white;} a:hover{color:yellow;}
+
+.box{
+	background: #6E6E6E;
+	height: 10%;
+}
+.box a:hover {
+	border-bottom:2px solid yellow;
+}
+.bouton{
+	position:fixed;
+	top: 5%;
+	left: 83%;
+	}
+#home{
+	color: #FFFFFF;
+	position:relative;
+	left: 10%;
+	text-decoration:none;
+}
+
+#SI{
+	color: #FFFFFF;
+	position:relative;
+	left: 12%;
+	text-decoration:none;
+}
+#job{
+	color: #FFFFFF;
+	position:relative;
+	left: 14%;
+	text-decoration:none;
+	}
+#cpy{
+	color: #FFFFFF;
+	position:relative;
+	left: 16%;
+	text-decoration:none;
+    }
+#where{
+	color: #FFFFFF;
+	position:relative;
+	left: 18%;
+	text-decoration:none;
+	}
+	
+.fin{
+	background: #6E6E6E;
+	height: 28%;
+    font-size:80%;
+}
+
+#titrefin{
+	color: #FFFFFF;
+	position:relative;
+	left: 3%;
+	letter-spacing:2px;
+	text-decoration:underline;
+	bottom: -9%;
+	}
+#txtcontact{
+	color: #FFFFFF;
+	position:relative;
+    bottom: -15%;
+	left: 5%;
+    height:9%;
+	}
+#txtcpy{
+	color: #FFFFFF;
+	position:relative;
+	left: 65%;
+	width: 30%;
+    bottom: 1%;
+	text-align:justify;
+	}
+#footer{
+	color: #FFFFFF;
+	font-size:85%;
+	text-align:center;
+	}
+
+
+
